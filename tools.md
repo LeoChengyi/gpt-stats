@@ -4,6 +4,8 @@ Here is a list of tools, gpts and sites that use the data from this repo. The GP
 
 Please check out these tools and give them some love.
 
+研究GPTs的一些方法工具，如下：
+
 ## GPT Search
 
 GPT Search is created by [Casssapir](https://github.com/casssapir). Its a free public database and API of all GPTs. Its got a website, Api and even a OpenAI GPT.

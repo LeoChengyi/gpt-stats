@@ -11,7 +11,7 @@ Quit useful as it gives you a view of changes over the period.
 Latest visit data date: 2023-12-29
 Previous visit data date: 2023-12-19
 
-## Top 10 Creators
+## Top 10 Creators 最受欢迎的十大创作者
 
 | Creator                |   Prev_Visits |   Visits |   gpts |   perc_inc |
 |:-----------------------|--------------:|---------:|-------:|-----------:|
@@ -26,7 +26,7 @@ Previous visit data date: 2023-12-19
 | North Pole             |         84810 |   134886 |      1 |         59 |
 | plagiarism-remover.com |         89953 |   117221 |      1 |         30 |
 
-## Fastest Growing Creators by Visits
+## Fastest Growing Creators by Visits 最快增长贡献者
 
 | Creator          |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
 |:-----------------|--------------:|---------:|-------:|-----------:|---------:|

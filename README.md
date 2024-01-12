@@ -1,5 +1,5 @@
 # GPT Stats
-
+该榜单包括了由非OPENAI创建的应用，相关工具跟踪方法参考Tools.md，本Patch由承亦更新：
 This includes csv files with stats for Custom Chat GPTs not created by OpenAI. Its good to see [people building on my GPT Stats](./tools.md). If you want your tool/site listed, please submit an PR to `tools.md` page.
 
 ## 1 Jan 2024 Update
